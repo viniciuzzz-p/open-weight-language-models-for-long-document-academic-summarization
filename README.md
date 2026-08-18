@@ -4,11 +4,11 @@
 
 ## Authors
 
-João Moreira 
-Vinicius Silva Pereira
-Paulo Vinícius Holanda Gomes
-Valberto Romulo Feitosa Pereira
-Carlos Caminha
+* João Moreira Neto
+* Vinicius Silva Pereira
+* Paulo Vinícius Holanda Gomes
+* Valberto Romulo Feitosa Pereira
+* Carlos Caminha
 
 ## Overview
 
