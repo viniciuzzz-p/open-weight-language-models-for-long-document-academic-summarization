@@ -1,6 +1,14 @@
-# ENIAC 2026 Submission: Open-Weight Language Models for Long-Document Academic Summarization
+# ENIAC 2026: Open-Weight Language Models for Long-Document Academic Summarization
 
 **Note:** This repository is currently anonymized to comply with the double-blind review process for the National Meeting on Artificial and Computational Intelligence (ENIAC) 2026. All identifying information, author names, and affiliations have been removed.
+
+## Authors
+
+João Moreira 
+Vinicius Silva Pereira
+Paulo Vinícius Holanda Gomes
+Valberto Romulo Feitosa Pereira
+Carlos Caminha
 
 ## Overview
 
